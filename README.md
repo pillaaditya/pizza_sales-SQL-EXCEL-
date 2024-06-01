@@ -1,1 +1,2 @@
-# pizza_sales-SQL-EXCEL-
+### Dataset- pizza_sales excel file
+### SQL Queries- Pizza Sales SQL Queries
